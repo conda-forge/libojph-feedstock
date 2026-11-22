@@ -1,5 +1,5 @@
 context:
-  version: "1.2.0"
+  version: "1.2.1"
 
 package:
   name: libojph
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/hmaarrfk/OpenJPH/archive/refs/tags/ojph-${{ version }}.tar.gz
-  sha256: 5c8b08a828ae035924dc8a7cfcced67051be7a7ae9e76348a08a22ce1d1423e1
+  sha256: a69a51b6d32e088a4834b56e2e7c802c5c2b7287231e566fc6b486a890f673c6
 
 build:
   number: 0
